@@ -9,7 +9,8 @@ Checks Taiwan Uniform Invoices for winning numbers.
 
 #### Fast Check:
 1. Check all receipts by entering the last three numbers and pressing enter
-2. If there is a match an alter will tell you to check the full receipt
+2. If there is a match an alert will tell you to check the full receipt
+3. After dismissing the alert press `ESC` to enter the next number. If number doesn't need additional checking the form will automatically reset after 1 second.
 
 #### Full Check:
 

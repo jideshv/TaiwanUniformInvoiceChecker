@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+div.code, div.yearmonth, .check_field {
+  font-size: 20px;
+}
+
+div.status {
+  font-size: 48px;
+}
+
+div.checkmark {
+  font-size: 500px;
+  color: green;
+  display: none;
+}
+
+div.cross {
+  font-size: 500px;
+  color: red;
+  display: none;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
